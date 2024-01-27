@@ -1,0 +1,1 @@
+Survivors using the First Aid Spray suffer from the Oblivious Status Effect for 30 seconds.

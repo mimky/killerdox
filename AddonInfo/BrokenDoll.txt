@@ -1,0 +1,1 @@
+Increases the duration of Nightfall by 20 seconds.

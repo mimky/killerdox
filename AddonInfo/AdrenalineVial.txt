@@ -1,0 +1,1 @@
+Reduces the Token Regeneration time by -1 second per Token. Increases the maximum Look angle during a Rush by +50%. Increases the available Rush Tokens by +2 Tokens. Increases the Rush Movement speed by +10%. Decreases the Rush Turn rate by -0.5 °/s. 

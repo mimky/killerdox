@@ -1,0 +1,1 @@
+Increases the Flight speed of Hatchets by +10%.

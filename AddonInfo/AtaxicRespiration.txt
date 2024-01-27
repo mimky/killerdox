@@ -1,0 +1,1 @@
+Reduces the duration of Fatigue by -7%.

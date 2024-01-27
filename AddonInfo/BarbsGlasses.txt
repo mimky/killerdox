@@ -1,0 +1,1 @@
+Reduces the Shred Cool-down after breaking Breakable Walls or Pallets by -15%.

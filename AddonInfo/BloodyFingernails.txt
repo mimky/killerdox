@@ -1,0 +1,1 @@
+Increases the duration of the Post-Projection Movement Speed boost by +50%.

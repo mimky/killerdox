@@ -1,0 +1,1 @@
+Reduces the time it takes for a TV to turn on after Projection by -12 seconds.

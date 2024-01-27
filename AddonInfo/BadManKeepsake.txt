@@ -1,0 +1,1 @@
+Survivors hit with a Special Attack have their Auras revealed to The Nurse if they are healing or being healed within 28 metres of her location for the next 60 seconds.

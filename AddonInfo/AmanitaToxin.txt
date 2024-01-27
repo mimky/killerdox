@@ -1,0 +1,1 @@
+Survivors hit by Hatchets suffer from the Blindness Status Effect for 60 seconds.

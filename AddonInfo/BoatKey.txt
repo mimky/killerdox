@@ -1,0 +1,1 @@
+Increases the Teleportation speed by +25% during Daytime. When all Generators are completed, all active Locks are instantly broken.

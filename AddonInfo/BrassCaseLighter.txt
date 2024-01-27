@@ -1,0 +1,1 @@
+While closing an activated Portal, Survivors suffer from the Blindness Status Effect. This effect lingers for 60 seconds. 

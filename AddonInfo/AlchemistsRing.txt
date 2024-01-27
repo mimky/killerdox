@@ -1,0 +1,1 @@
+Hitting a Survivor with a Lethal Rush will instantly recharge all Rush Tokens. 

@@ -1,0 +1,1 @@
+The Auras of locked Lockers are visible to you in yellow while charging The Gloaming or teleporting.

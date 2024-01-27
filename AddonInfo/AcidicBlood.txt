@@ -1,0 +1,1 @@
+Any Survivor that stuns you within 20 seconds after exiting a tunnel during Crawler Mode loses a Health State. Survivors that are Injured will suffer from the Deep Wound Status Effect instead. 

@@ -1,0 +1,1 @@
+Increases The Oni's Movement speed during a Demon Dash by +1.0 m/s.

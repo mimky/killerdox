@@ -1,0 +1,1 @@
+Reduces Chain Hunt Activation time by -3 seconds.

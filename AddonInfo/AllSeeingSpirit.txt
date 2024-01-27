@@ -1,0 +1,1 @@
+When cloaked, the intensity of the Aura of Generators reveal their Repair progression.

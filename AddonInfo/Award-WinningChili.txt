@@ -1,0 +1,1 @@
+Increases the duration of the Chainsaw Dash and Chainsaw Dash Window by +0.5 seconds. 

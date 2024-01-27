@@ -1,0 +1,1 @@
+Increases the Crushing time of Victor while he is idle by +0.2 seconds.

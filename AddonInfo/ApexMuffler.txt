@@ -1,0 +1,1 @@
+Silences the Chainsaw for all Survivors outside of the Terror Radius.
