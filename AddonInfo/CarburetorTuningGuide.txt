@@ -1,1 +1,0 @@
-The Chainsaw Dash automatically consumes all Tokens. Increases the duration of the Chainsaw Dash by +0.5 seconds. Reduces the Recharge rate of the Chainsaw Sweep by -0.28 c/s. Reduces the Chainsaw Dash Movement speed by -2%.

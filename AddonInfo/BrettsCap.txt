@@ -1,1 +1,0 @@
-When a Turret is destroyed, all Survivors within 16 metres suffer from the Blindness Status Effect for 25 seconds.

@@ -1,1 +1,0 @@
-Increases Killer Instinct duration after a Survivors uses a Vaccine by +3 seconds.

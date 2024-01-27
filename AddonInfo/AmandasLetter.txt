@@ -1,1 +1,0 @@
-When crouched, the Auras of all Survivors within 16 metres are revealed to you. Reduces available Reverse Bear Traps by -2 Traps. 

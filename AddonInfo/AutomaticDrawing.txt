@@ -1,1 +1,0 @@
-Reduces the Cool-down time of Birds of Torment after a Dire Crow disintegrates from inactivity by -1.5 seconds.

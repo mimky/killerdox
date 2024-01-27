@@ -1,1 +1,0 @@
-Increases the Charge speed of the Chainsaw by +18% for 30 seconds after being blinded.

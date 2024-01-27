@@ -1,1 +1,0 @@
-Reduces the Terror Radius by -8 metres while overheated.

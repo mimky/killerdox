@@ -1,1 +1,0 @@
-If a Survivor escapes a Guard Hunt by any means other than grabbing the Standard, they will suffer from a -3% Hindered Status Effect and the Exhausted Status Effect for 15 seconds.

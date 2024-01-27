@@ -1,1 +1,0 @@
-Reduces Cool-down duration in-between Hatchet Throws by -10%.

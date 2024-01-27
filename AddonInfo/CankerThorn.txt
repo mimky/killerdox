@@ -1,1 +1,0 @@
-Reduces Rush Fatigue time by -0.5 seconds.

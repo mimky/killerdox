@@ -1,1 +1,0 @@
-Reduces the Cool-down duration of Hidey-Ho Mode by -10% after missing a Slice & Dice Attack.

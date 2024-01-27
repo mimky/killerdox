@@ -1,1 +1,0 @@
-Increases the Lingering duration of the Undetectable Status Effect by +50%.

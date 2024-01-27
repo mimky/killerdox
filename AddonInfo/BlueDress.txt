@@ -1,1 +1,0 @@
-Increases the Regression penalty of failed Repairing and Healing Skill Checks by +4%. The Auras of Survivors failing these Skill Checks are revealed for 4 seconds.

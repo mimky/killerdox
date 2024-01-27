@@ -1,1 +1,0 @@
-Increases the range within which Temporal Slipstream can spread between Survivors by +2 metres.

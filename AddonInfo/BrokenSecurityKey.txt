@@ -1,1 +1,0 @@
-Reduces the Reboot timer of disabled Biopods by -15%.

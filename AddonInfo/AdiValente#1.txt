@@ -1,1 +1,0 @@
-Reduces the size of Skill Checks for Survivors inside the Area of Effect of a Drone by -20%. This effect lingers for 15 seconds after leaving the Area of Effect.

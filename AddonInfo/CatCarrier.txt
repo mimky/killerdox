@@ -1,1 +1,0 @@
-When a Turret disables Crawler Mode, you gain the Undetectable Status Effect for 20 seconds.

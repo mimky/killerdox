@@ -1,1 +1,0 @@
-Increases the maximum Patrol Path length by +10 metres. Increases the Movement speed of The Knight while drawing the Patrol Path by +25%.

@@ -1,1 +1,0 @@
-Increases Zombie Movement speed by +0.25 m/s.

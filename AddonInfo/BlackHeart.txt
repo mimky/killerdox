@@ -1,1 +1,0 @@
-Reduces the Shred Cool-down after successful Special Attacks by -15%.

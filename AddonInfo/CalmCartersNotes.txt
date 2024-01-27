@@ -1,1 +1,0 @@
-Increases The Doctor's Terror Radius while Static Blast is ready by +8 metres. Reduces The Doctor's Terror Radius while Static Blast is on Cool-down by -8 metres. Survivors with Madness suffer from the Affliction of Calm:Madness II: Survivors intermittently hear a distant Illusionary Terror Radius. Madness III: Survivors constantly hear a distant Illusionary Terror Radius. 

@@ -1,1 +1,0 @@
-Increases the Attaching speed of Reverse Bear Traps by +50%. Decreases the Search speed of Jigsaw Boxes by -14%.

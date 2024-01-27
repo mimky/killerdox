@@ -1,1 +1,0 @@
-Guards inflict the Mangled Status Effect when damaging a Survivor.

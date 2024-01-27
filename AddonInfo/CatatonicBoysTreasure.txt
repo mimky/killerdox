@@ -1,1 +1,0 @@
-Reduces the additional Fatigue penalty applied by Chain Blinks by -65%.

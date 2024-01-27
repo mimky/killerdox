@@ -1,1 +1,0 @@
-Reduces the Stun duration when Survivors break free from The Redeemer by -1 second. 

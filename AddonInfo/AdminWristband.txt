@@ -1,1 +1,0 @@
-Increases the Survivor Detection range of Zombies by +4 metres. Increases the Field of View of Zombies by +17.5 °.

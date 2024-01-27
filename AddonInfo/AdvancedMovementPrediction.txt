@@ -1,1 +1,0 @@
-Survivors entering the Area of Effect of a Drone have their Aura revealed for 6 seconds.

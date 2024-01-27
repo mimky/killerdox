@@ -1,1 +1,0 @@
-Reappearing from a fully charged Blink, The Nurse will automatically Blink at full charge in the direction she is facing. This requires that The Nurse has at least 1 Charge left after the initial Blink.

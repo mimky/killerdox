@@ -1,1 +1,0 @@
-Increases Rush Movement speed by +6% for each consecutive Rush.

@@ -1,1 +1,0 @@
-Survivors interacting with a Dream Trap suffer from the Haemorrhage Status Effect for 60 seconds.

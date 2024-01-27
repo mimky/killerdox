@@ -1,1 +1,0 @@
-Increases the Phantasm Trap's Trigger range by +10%.

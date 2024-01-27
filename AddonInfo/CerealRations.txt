@@ -1,1 +1,0 @@
-Turret Auras are visible while in a tunnel. This effect lingers for 3 seconds after exiting a tunnel.

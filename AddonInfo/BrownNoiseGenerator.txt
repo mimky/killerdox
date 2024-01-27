@@ -1,1 +1,0 @@
-Survivors inside the Area of Effect of a Drone suffer from the Oblivious Status Effect. This effect lingers for 15 seconds after leaving the Area of Effect.
